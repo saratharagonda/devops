@@ -1,0 +1,2 @@
+this is environment variable file
+added th epython variabels
