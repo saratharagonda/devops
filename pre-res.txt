@@ -1,0 +1,5 @@
+adding the pre-req files
+db install
+python module adding
+adding envornment variables
+java path
